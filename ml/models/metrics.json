@@ -1,0 +1,10 @@
+{
+  "target": "ratings_count",
+  "transform": "log1p",
+  "model": "RandomForestRegressor",
+  "rows": 5,
+  "mae": 0.37079844626552294,
+  "rmse": 0.37079844626552294,
+  "r2": NaN,
+  "trained_at_utc": "2026-02-02T21:47:44.767331+00:00"
+}
